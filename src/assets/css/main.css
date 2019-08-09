@@ -1,0 +1,36 @@
+body {
+    background-color: #ffff;
+}
+
+.container {
+	margin-top: 100px;
+}
+
+.login-form {
+    padding: 30px;
+    text-align: left;
+    background-color: #0062cc;
+    color: #ffff;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-form h3 {
+    margin: 30px 0;
+    text-align: center;
+    font-weight: 600;
+}
+
+.btn-login {
+    width: 50%;
+    background: #ffff;
+    color: #0062cc;
+    font-weight: 600;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+a.forget-text {
+    color: #ffff;
+    font-weight: 600;
+}
